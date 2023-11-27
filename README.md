@@ -1,4 +1,3 @@
 # UCB-HW1
-First homework assignment for UCB Data Bootcamp
-
-THIS IS ME MAKING A TEST CHANGE TO PUSH DURING 11/16/23 CLASS
+First homework assignment for UCB Data Bootcamp.
+The Microsoft Word document can be found in the same directory as the Excel sheet, the "Starter_Code" folder. The answers for the "Statistical Analysis" section can be found on the related slide.
